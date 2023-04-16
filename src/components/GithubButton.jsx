@@ -5,7 +5,7 @@ import { RiGithubFill } from "react-icons/ri";
 import React from "react";
 
 function openGithub() {
-  window.open("https://github.com/Rabixx/simple-calculator", "_blank");
+  window.open("https://github.com/Rabixx/simplcalc", "_blank");
 }
 
 const GithubButton = () => {
