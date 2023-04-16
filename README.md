@@ -4,6 +4,8 @@ Simple Calculator written in react & chakra-ui library fully responsive with dar
 
 link to live repo --> https://www.simplcalc.netlify.app
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e524d56-ba3c-4459-ae68-c02421c4754b/deploy-status)](https://app.netlify.com/sites/simplcalc/deploys)
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install simple-calculator.
