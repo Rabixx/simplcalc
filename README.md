@@ -6,6 +6,7 @@ link to live repo --> https://www.simplcalc.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8e524d56-ba3c-4459-ae68-c02421c4754b/deploy-status)](https://app.netlify.com/sites/simplcalc/deploys)
 
+![img](https://cdn.discordapp.com/attachments/729018837533720667/1097116661959635025/screen1.jpg)
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install simple-calculator.
